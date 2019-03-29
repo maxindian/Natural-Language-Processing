@@ -6,7 +6,7 @@ Including the datasets and the relevant model.
 ## the Table of NLP tasks
 
 ### English
-- [Language Model](Languange model-Word-level/language_model.md)
+- [Language Model](Languange~model-Word-level/language_model.md)
 - [Constituency parsing](english/Constituency_parsing.md)
 
 <!-- - [CCG supertagging](english/ccg_supertagging.md)
