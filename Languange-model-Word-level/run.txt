@@ -1,0 +1,3 @@
+
+
+python main.py --cuda --emsize 512 --nhid 512 --dropout 0.5 --epochs 100 --batch_size 20 --lr 20 
